@@ -3853,6 +3853,7 @@ hr {
   font-size: 30px;
   font-weight: 500;
   text-transform: uppercase;
+  
 }
 
 /* line 27, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_pricing.scss */
@@ -3896,9 +3897,12 @@ hr {
 /* line 52, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_pricing.scss */
 .pricing-area .properties .single-features .features-caption p {
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.8;
   color: #fff;
   text-transform: capitalize;
+  min-height: 50px; /* Altura mínima para uniformizar */
+
+  
 }
 
 /* line 61, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_pricing.scss */
@@ -3910,6 +3914,10 @@ hr {
   transition: 0.4s;
   border: 1px solid rgba(255, 255, 255, 0.2);
   padding: 36px 24px 25px 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
 }
 
 /* line 66, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_pricing.scss */
