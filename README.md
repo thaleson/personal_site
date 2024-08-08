@@ -51,5 +51,5 @@ projeto-personal-trainer/
 
 ## 🌍 Deploy
 
-Este site está hospedado em [vercel] e pode ser acessado [aqui](https://personal-site-bay-nine.vercel.app/).
+Este site está hospedado no vercel e pode ser acessado [aqui](https://personal-site-bay-nine.vercel.app/).
 
